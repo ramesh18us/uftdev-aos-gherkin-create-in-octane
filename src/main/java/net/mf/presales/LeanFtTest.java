@@ -17,6 +17,7 @@ public class LeanFtTest extends UnitTestClassBase {
 
 	public LeanFtTest() {
 		//Change this constructor to private if you supply your own public constructor
+		
 	}
 
 	@BeforeClass
