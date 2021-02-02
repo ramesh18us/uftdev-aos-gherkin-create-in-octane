@@ -20,6 +20,7 @@ public class LeanFtTest extends UnitTestClassBase {
 // Comment TWO
 	}
 
+
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
 		instance = new LeanFtTest();
