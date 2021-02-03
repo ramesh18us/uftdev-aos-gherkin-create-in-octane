@@ -20,7 +20,7 @@ public class LeanFtTest extends UnitTestClassBase {
 // Comment TWO
 	}
 
-//test89026444ddsff
+//test
 
 	@BeforeClass
 	public static void setUpBeforeClass() throws Exception {
